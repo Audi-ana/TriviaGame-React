@@ -1,0 +1,24 @@
+li{
+   list-style: none;
+}
+
+.QDiv{
+display:flex;
+flex-direction: column;
+padding-bottom: 5%;
+align-items: center;
+}
+
+.background{
+    background-color: rgb(204, 139, 204);
+    border-style: double;
+    padding: 5%;
+    width: 60vw;
+}
+
+.scoreStyling{
+    display:flex;
+    justify-content:center;
+    margin-bottom: 5%;
+    
+}

@@ -1,0 +1,38 @@
+h1{
+    display: flex;
+    justify-content: center;
+    margin-top: 5%;
+}
+
+.nameForm{
+    display: flex;
+    justify-content: center; 
+    margin-left: 7%;
+    margin-right: 7%;
+    /* margin-top: 15%; */
+    padding: 5%;
+}
+
+body {
+    margin: 0px;
+}
+
+.backgroundImage{
+    background:url('https://i.imgur.com/8DYkfdP.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 100vh;
+  margin-top:0px;
+}
+
+.welcomeStyling{
+    display: flex;
+    justify-content: center;
+    padding-top: 20%;
+    font-size: 5vw;
+    color: snow;
+   
+    
+}
